@@ -42,10 +42,8 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="tech-marquee.svg" alt="Technologies and tools" width="100%" />
+  <img src="tech-marque.svg" alt="Technologies and tools" width="100%" />
 </p>
-
-> 🎠 Double animated carousel with my portfolio technologies: TypeScript, React, Node.js, NestJS, Python, Swift, PostgreSQL, Git, and AI assistants (Codex, Claude, OpenCode).
 
 ---
 
