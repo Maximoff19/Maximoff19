@@ -7,15 +7,15 @@
                           ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝     ╚═╝
 </pre>
 
-<h1 align="center">👋 ¡Hola! Soy Pietro Osores</h1>
+<h1 align="center">👋 Hi! I'm Pietro Osores</h1>
 
 <p align="center">
-  <strong>Desarrollador de Software Junior</strong> — creo productos web rápidos, claros y confiables con <strong>TypeScript</strong>, <strong>React</strong>, <strong>Node.js</strong> y <strong>Python</strong>.
+  <strong>Junior Software Developer</strong> — I build fast, clear, and reliable web products with <strong>TypeScript</strong>, <strong>React</strong>, <strong>Node.js</strong>, and <strong>Python</strong>.
 </p>
 
 <p align="center">
   <a href="https://www.pietro.engineer/">
-    <img src="https://img.shields.io/badge/Portafolio-pietro.engineer-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-pietro.engineer-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Maximoff19">
     <img src="https://img.shields.io/badge/GitHub-Maximoff19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -26,43 +26,43 @@
   <a href="mailto:contactame@pietro.engineer">
     <img src="https://img.shields.io/badge/Email-contactame%40pietro.engineer-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Per%C3%BA%20%E2%80%94%20Remoto-6DB33F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación"/>
+  <img src="https://img.shields.io/badge/Location-Peru%20%E2%80%94%20Remote-6DB33F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
-- 🚀 Apasionado por construir **productos web rápidos, claros y confiables**.
-- 🎯 Enfocado en **frontend**, **backend** y desarrollo **mobile** con Swift.
-- 🌍 Disponible para **prácticas y posiciones junior en Perú o remoto**.
-- 📚 Siempre aprendiendo: actualmente profundizando en **TypeScript** y **NestJS**.
-- 🤖 Uso IA como asistente de desarrollo para escribir mejor código y más rápido.
-## 🛠️ Tecnologías y Herramientas
+- 🚀 I turn ideas into **clear, fast, and reliable digital products** that solve real problems and feel simple from the first interaction.
+- 🔄 I work **end to end**, translating needs into polished interfaces, solid logic, and experiences that keep people at the center.
+- 🤖 I apply **AI to software development** through SDD (Spec-Driven Development), agent harnesses, and AI-assisted methodologies to plan, build, and validate software.
+- 📚 I **learn quickly**, care about the details, and take ownership of every delivery.
+- 🎯 I'm looking for a team where I can **contribute from day one** and grow by building work with real impact.
+
+## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="tech-marquee.svg" alt="Tecnologías y herramientas" width="100%" />
+  <img src="tech-marquee.svg" alt="Technologies and tools" width="100%" />
 </p>
 
-> 🎠 Carrusel animado de tecnologías: TypeScript, React, JavaScript, HTML5, CSS3, Node.js, NestJS, Express, Python, Swift, PostgreSQL, Firebase, Git, GitHub, Vercel y asistentes de IA (Claude, Codex, OpenCode).
+> 🎠 Double animated carousel with my portfolio technologies: TypeScript, React, Node.js, NestJS, Python, Swift, PostgreSQL, Git, and AI assistants (Codex, Claude, OpenCode).
 
 ---
 
-## 💼 Experiencia
+## 💼 Experience
 
-### 🏛️ [goberna.club](https://goberna.club/) — Contribución al desarrollo
-Colaboré en el desarrollo de la plataforma utilizando **TypeScript**, **React**, **NestJS** y **Python**.
+### 🏛️ [goberna.club](https://goberna.club/) — Development Contribution
+Contributed to the platform using **TypeScript**, **React**, **NestJS**, and **Python**.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
+## 📫 Contact
 
-## 📫 Contacto
+If you'd like to talk about development, projects, or a job opportunity, reach out!
 
-Si querés hablar sobre desarrollo, proyectos o una oportunidad laboral, ¡escribime!
-
-- 🌐 **Portafolio:** [pietro.engineer](https://www.pietro.engineer/)
+- 🌐 **Portfolio:** [pietro.engineer](https://www.pietro.engineer/)
 - 📧 **Email:** [contactame@pietro.engineer](mailto:contactame@pietro.engineer)
 - 💼 **LinkedIn:** [Pietro Osores Marchese](https://www.linkedin.com/in/pietro-osores-marchese-7aa182192/)
 - 🐙 **GitHub:** [@Maximoff19](https://github.com/Maximoff19)
@@ -70,5 +70,5 @@ Si querés hablar sobre desarrollo, proyectos o una oportunidad laboral, ¡escri
 ---
 
 <p align="center">
-  Hecho con ❤️ y ☕ en Perú
+  Made with ❤️ and ☕ in Peru
 </p>
