@@ -29,6 +29,15 @@
   <img src="https://img.shields.io/badge/Location-Peru%20%E2%80%94%20Remote-6DB33F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Maximoff19.Maximoff19&"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Maximoff19/Maximoff19/snake-output/snake.svg" alt="Snake animation" />
+
+###
 ---
 
 ## 🧑‍💻 About Me
