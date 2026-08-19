@@ -33,11 +33,6 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Maximoff19.Maximoff19&"  />
 </div>
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Maximoff19/Maximoff19/snake-output/snake.svg" alt="Snake animation" />
-
-###
 ---
 
 ## 🧑‍💻 About Me
@@ -63,19 +58,30 @@ Contributed to the platform using **TypeScript**, **React**, **NestJS**, and **P
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
 
 ## 📫 Contact
 
 If you'd like to talk about development, projects, or a job opportunity, reach out!
 
-- 🌐 **Portfolio:** [pietro.engineer](https://www.pietro.engineer/)
-- 📧 **Email:** [contactame@pietro.engineer](mailto:contactame@pietro.engineer)
-- 💼 **LinkedIn:** [Pietro Osores Marchese](https://www.linkedin.com/in/pietro-osores-marchese-7aa182192/)
-- 🐙 **GitHub:** [@Maximoff19](https://github.com/Maximoff19)
 
----
+<p align="center">
+  <a href="https://www.pietro.engineer/">
+    <img src="https://www.pietro.engineer/assets/Untitled-C15C805-.ico" width="64" height="64" alt="Portfolio" style="border-radius: 50%; margin: 0 6px"/>
+  </a>
+  <a href="https://github.com/Maximoff19">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="64" height="64" alt="GitHub" style="border-radius: 50%; background: #181717; padding: 12px; margin: 0 6px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pietro-osores-marchese-7aa182192/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="64" height="64" alt="LinkedIn" style="border-radius: 50%; background: #0A66C2; padding: 12px; margin: 0 6px"/>
+  </a>
+  <a href="mailto:contactame@pietro.engineer">
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="64" height="64" alt="Email" style="border-radius: 50%; background: #D14836; padding: 12px; margin: 0 6px"/>
+  </a>
+</p>
 
 <p align="center">
   Made with ❤️ and ☕ in Peru
+</p>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2s1OWNxMjM5MnRubDN5aGdjd2pnMmN0ZWxqajExYjdrdmN2YXQybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rR8mBqMr17V8dFZYvr/giphy.gif" width="200" alt="GIF" />
 </p>
