@@ -42,7 +42,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="tech-marque.svg" alt="Technologies and tools" width="100%" />
+  <img src="tech-marquee.svg" alt="Technologies and tools" width="100%" />
 </p>
 
 ---
